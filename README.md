@@ -119,14 +119,15 @@ _"Dutch forward Reggie Blinker had his indefinite suspension lifted by FIFA on F
 
 ### Visualizations
 
-- **LFS Boxplot by Entity Type:**
-- **LFS Distribution:**
-- **LFS vs Sentence Length:**
+- **LFS Boxplot by Entity Type: ![image](/results/lfs_boxplot_by_entity.png)**
+- **LFS Distribution: ![image](/results/lfs_distribution.png)**
+- **LFS vs Sentence Length: ![image](/results/lfs_vs_sentence_length.png)**
 
 **Additional Visualizations:**
 
-- LIAP-pruned attention vs. original attention
-- LIME explanations for selected examples
+- **LIAP-pruned attention vs. original attention: ![image](/results/visualizations/example_0.png)**
+- LIME explanations for selected examples.
+    - _See `results/lime/` for examples_
 
 _See the `results/visualizations/` directory for more examples and side-by-side comparisons._
 
